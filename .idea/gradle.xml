@@ -8,18 +8,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/SmallVideoLib2" />
-            <option value="$PROJECT_DIR$/album" />
-            <option value="$PROJECT_DIR$/autolayout" />
-            <option value="$PROJECT_DIR$/banner" />
-            <option value="$PROJECT_DIR$/baseRecyclerview" />
-            <option value="$PROJECT_DIR$/easeui" />
-            <option value="$PROJECT_DIR$/glideImageView" />
-            <option value="$PROJECT_DIR$/imgbrowserlibrary" />
-            <option value="$PROJECT_DIR$/jiujia" />
-            <option value="$PROJECT_DIR$/versionUpdate" />
-            <option value="$PROJECT_DIR$/videoplayer" />
-            <option value="$PROJECT_DIR$/xutils-3" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
