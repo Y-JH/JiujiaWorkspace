@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JiuJia-android20170724.iml" filepath="$PROJECT_DIR$/JiuJia-android20170724.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallVideoLib2/SmallVideoLib2.iml" filepath="$PROJECT_DIR$/SmallVideoLib2/SmallVideoLib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/album/album.iml" filepath="$PROJECT_DIR$/album/album.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autolayout/autolayout.iml" filepath="$PROJECT_DIR$/autolayout/autolayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banner/banner.iml" filepath="$PROJECT_DIR$/banner/banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseRecyclerview/baseRecyclerview.iml" filepath="$PROJECT_DIR$/baseRecyclerview/baseRecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glideImageView/glideImageView.iml" filepath="$PROJECT_DIR$/glideImageView/glideImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imgbrowserlibrary/imgbrowserlibrary.iml" filepath="$PROJECT_DIR$/imgbrowserlibrary/imgbrowserlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiujia/jiujia.iml" filepath="$PROJECT_DIR$/jiujia/jiujia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/versionUpdate/versionUpdate.iml" filepath="$PROJECT_DIR$/versionUpdate/versionUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoplayer/videoplayer.iml" filepath="$PROJECT_DIR$/videoplayer/videoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils-3/xutils-3.iml" filepath="$PROJECT_DIR$/xutils-3/xutils-3.iml" />
+    </modules>
+  </component>
+</project>

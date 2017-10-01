@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\AndroidSpace\APPS\JiuJia-android20170724\easeui\assets"/><source path="C:\AndroidSpace\APPS\JiuJia-android20170724\easeui\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\AndroidSpace\APPS\JiuJia-android20170724\easeui\build-types\debug\assets"/></dataSet></merger>

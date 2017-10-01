@@ -1,0 +1,29 @@
+<resources>
+
+
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#FF4081</item>
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="SelTheme" parent="@style/BaseAppTheme">
+
+
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--重置系统默认分割线-->
+        <!--<item name="android:listDivider">@drawable/shape_divider_line</item>-->
+        <item name="colorPrimary">@color/album_white</item>
+        <item name="colorPrimaryDark">@color/album_white</item>
+        <item name="colorAccent">@color/album_color63b2f5</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+    </style>
+
+</resources>

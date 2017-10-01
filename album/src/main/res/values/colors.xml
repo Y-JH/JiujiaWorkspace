@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d61518</color>
+    <color name="colorPrimaryDark">#d61518</color>
+    <color name="colorAccent">#d61518</color>
+
+    <color name="bottom_bg">#aa666666</color>
+    <color name="album_white">#ffffff</color>
+    <color name="album_trans">#00000000</color>
+    <color name="album_color63b2f5">#63b2f5</color>
+    <color name="album_colorf4f4f4">#f4f4f4</color>
+</resources>
